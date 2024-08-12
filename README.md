@@ -1,7 +1,7 @@
 
 # 🔎 Alibi 🔍
 
-Hello everyone, Julien and Mathieu here! We’re excited to present **Alibi**, a thrilling cooperative adventure game that's fun and engaging, playable with up to 43 players!
+Hello everyone, Julien and Mathieu here! We’re excited to present **Alibi**, a thrilling cooperative adventure game that's fun and engaging, playable with up to 4 players!
 
  ## Game Pitch 🔔
 Suddenly, you and your friend find yourselves accused of murder! With just 60 seconds to establish and memorize your alibi, you'll need to think quickly and act fast before facing the judge!
