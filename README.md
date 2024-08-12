@@ -48,7 +48,7 @@ in the backend :
 node express.js
 ```
 
-## Available also on iOS !
+## Also available on iOS !
 ![Rules](preview/4.jpg)
 
 ## Tech Stack
